@@ -21,8 +21,11 @@ Open the `index.html` file in any modern web browser to start using the calculat
 calculator-project/
 │
 ├── index.html 
+
 ├── style.css
-├── script.js 
+
+├── script.js
+
 └── README.md 
 
 ##  Technologies Used
