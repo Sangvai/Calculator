@@ -19,6 +19,7 @@ Open the `index.html` file in any modern web browser to start using the calculat
 
 ##  Project Structure
 calculator-project/
+
 │
 
 ├── index.html 
